@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iths csharp uppgifter del7 grunder 1-6", "Iths csharp uppgifter del7 grunder 1-6.csproj", "{C74ECCED-3940-4C3B-97ED-51356E68973C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C74ECCED-3940-4C3B-97ED-51356E68973C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C74ECCED-3940-4C3B-97ED-51356E68973C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C74ECCED-3940-4C3B-97ED-51356E68973C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C74ECCED-3940-4C3B-97ED-51356E68973C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {201713E7-A52D-430A-B480-29ACA65D5CFA}
+	EndGlobalSection
+EndGlobal
